@@ -24,4 +24,6 @@
 - Click the save button to store the event in local storage
 - Refresh the page to ensure your events persist
 
-![Image] (./assets/images/workSchedulerImage.png)
+![Image](./assets/images/workSchedulerImage.png)
+
+[Website](https://ilirhajdari.github.io/schedule-your-work/)
